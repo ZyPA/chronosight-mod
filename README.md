@@ -9,9 +9,10 @@ If you have any sort of experience with creating mods for Cookie Clicker and hav
 
 # How to use:
 ## Steam:
-- Simply subscribe to the mod in the <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2956666658">workshop</a>.
+- Simply subscribe to the mod from the <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2956666658">Steam Workshop</a>.
 ## Web:
-- Add <a href="https://zypa.github.io/chronosight-mod/main.js">this link</a> to the <a href="https://chrome.google.com/webstore/detail/cookie-clicker-mod-manage/gehplcbdghdjeinldbgkjdffgkdcpned">Cookie Clicker Mod Manager</a> extension.
+- Add `https://zypa.github.io/chronosight-mod/main.js` to the <a target="_blank" href="https://chrome.google.com/webstore/detail/cookie-clicker-mod-manage/gehplcbdghdjeinldbgkjdffgkdcpned">Cookie Clicker Mod Manager</a> extension.
+- Or use this bookmarklet command: `javascript:(function(){Game.LoadMod('https://zypa.github.io/chronosight-mod/main.js');}());`
 
 # Current features:
 - Shows you the current bonuses of all the slots.
